@@ -1,0 +1,19 @@
+header
+{
+    font-weight: bold;
+}
+.container
+{
+    width: 1000px;
+    margin: auto;
+}
+a:hover
+{
+    cursor: pointer;
+}
+.content
+{
+    width: 200px;
+    height:200px;
+    border-radius: 30px
+}
